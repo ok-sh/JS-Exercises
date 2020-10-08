@@ -1,0 +1,6 @@
+mario kretchmann	gold	80	2
+mario kretchmann	silber	200	1
+gerald von rivia	silber	10	4
+john smith	waffle	iron	80	1
+flavio smith	bronze	10	2
+flavio schmidt	gold	20	3
